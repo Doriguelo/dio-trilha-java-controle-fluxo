@@ -1,4 +1,4 @@
-# 📊 Contador de Parâmetros
+# 📊 Contador Sequencial
 
 Este é um projeto simples da trilha Back-end Java do bootcamp Santander.
 
